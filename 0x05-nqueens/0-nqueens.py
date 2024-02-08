@@ -27,7 +27,6 @@ def solve_n_queens(size):
                 return False
         return True
 
-
     def create_main_boards(solutions):
         """Method that builds the List that will be returned"""
         main_boards = []
